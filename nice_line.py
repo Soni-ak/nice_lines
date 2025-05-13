@@ -1,6 +1,6 @@
-# nice_lines.py v1
+# nice_lines.py 
 
-print("🌸 Welcome to a beautiful day! 🌞")
+print("🌸 Welcome to a beautiful day! 🌞")v1
 print("Keep going — you're doing amazing! 💪")
 print("Every step you take is progress. 🚶‍♀️🚶‍♂️")
 print("Believe in yourself and your journey. ✨")
